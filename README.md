@@ -1,1 +1,1 @@
-# data_analytics_lab_project
+# Project completed as part of the Data analytics lab.
